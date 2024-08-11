@@ -12,7 +12,7 @@ Stores information in a memory component, allowing the model to reference past d
 
 Also, tested the chatbot with real-time questions to evaluate its performance. I asked various questions and assessed the chatbot's ability to provide accurate answers, measuring its accuracy in responding to these queries.
 
-The chatbot demonstrated an accuracy rate of approximately 96.76% in answering real-time questions.
+The chatbot demonstrated an accuracy rate of approximately 96.14% in answering real-time questions.
 
 
 ### Future Avenues:
